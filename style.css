@@ -1,0 +1,24 @@
+.calc{
+    width: 400px;
+    height: 600px;
+    background: gray;
+    margin-left: 400px;
+}
+.txt{
+    width: 80%;
+    height: 100px;
+    margin-left: 35px;
+    margin-top: 25px;
+    font-size: 60px;
+    pointer-events: none;
+}
+.btn{
+    width: 75px;
+    height: 75px;
+    margin-left: 15px;
+    line-height: 5px;
+    margin-top: 20px;
+    background: rgba(97, 93, 93, 0.801);
+    border: 1px solid black;
+    color: #ffff;
+}
